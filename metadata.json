@@ -1,0 +1,6 @@
+{
+  "name": "EV Insights",
+  "description": "Electric Vehicle Market Performance & Insights — An interactive analytics platform integrating Tableau Public dashboards, market dynamics, battery technology, and manufacturer performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

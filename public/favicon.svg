@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect width="32" height="32" rx="8" fill="#0f172a"/>
+  <rect x="1" y="1" width="30" height="30" rx="7" stroke="#ff6b00" stroke-width="1.5" stroke-opacity="0.6"/>
+  <!-- EV Battery / Car silhouette with lightning -->
+  <path d="M7 11C7 9.89543 7.89543 9 9 9H23C24.1046 9 25 9.89543 25 11V21C25 22.1046 24.1046 23 23 23H9C7.89543 23 7 22.1046 7 21V11Z" fill="#1e293b" stroke="#f97316" stroke-width="1.5"/>
+  <rect x="25" y="13" width="2" height="6" rx="1" fill="#f97316"/>
+  <!-- Lightning bolt in orange/amber -->
+  <path d="M17 11L12 17H16L15 21L20 15H16L17 11Z" fill="#ff6b00" stroke="#fbbf24" stroke-width="0.8" stroke-linejoin="round"/>
+</svg>
